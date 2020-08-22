@@ -1,2 +1,2 @@
-# StudentPLanner4.5
-With the correct images, buttons, and hide() and show();
+# p5.play-boilerplate
+Boiler plate for p5.play
